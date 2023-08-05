@@ -1,0 +1,19 @@
+.navbar-custom {
+  background-color: #19355B;
+}
+.navbar-toggler-icon
+{
+  background-image: url("hamburger-icon.png");
+  border-color: transparent;
+  color: white;
+  filter: invert(100%);
+}
+.front_page{
+  width: 100%;
+}
+
+.container-fluid{
+  position: relative;
+  padding: 0px; 
+  margin: 0px;
+}
